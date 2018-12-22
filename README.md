@@ -1,0 +1,2 @@
+# prodigyHeroes
+Idle hackathon game
